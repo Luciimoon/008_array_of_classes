@@ -29,24 +29,24 @@ public class StudentArray {
 		
 		
 		myStudents[0] = new Student();
-		myStudents[0].setbreed(breedA);
-		myStudents[0].setgender(genderA);
-		myStudents[0].setage(age);
-		myStudents[0].setsymptoms(symptomsA);
+		myStudents[0].setbreed("husky");
+		myStudents[0].setgender("M");
+		myStudents[0].setage(2);
+		myStudents[0].setsymptoms("cut");
 		
 		
 		myStudents[1] = new Student();
-		myStudents[1].setbreed(breedA);
-		myStudents[1].setgender(genderA);
-		myStudents[1].setage(age);
-		myStudents[1].setsymptoms(symptomsA);
+		myStudents[1].setbreed("Parakeet");
+		myStudents[1].setgender("F");
+		myStudents[1].setage(1);
+		myStudents[1].setsymptoms("Yellow Beak");
 		
 		
 		myStudents[2] = new Student();
-		myStudents[2].setbreed(breedA);
-		myStudents[2].setgender(genderA);
-		myStudents[2].setage(age);
-		myStudents[2].setsymptoms(symptomsA);
+		myStudents[2].setbreed("shark");
+		myStudents[2].setgender("u");
+		myStudents[2].setage(4);
+		myStudents[2].setsymptoms("slow swim");
 		
 		
 		
